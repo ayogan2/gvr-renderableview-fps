@@ -1,0 +1,7 @@
+#Mon Feb 05 13:29:04 PST 2018
+base.0=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8401e9405d4a90e43b75ee2e18bcace2bf31f1dd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09d46b417a048e788a6d91aaa8c75199bcc787a4/classes.dex
+base.1=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_09d46b417a048e788a6d91aaa8c75199bcc787a4
+file.0=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8401e9405d4a90e43b75ee2e18bcace2bf31f1dd/classes.dex

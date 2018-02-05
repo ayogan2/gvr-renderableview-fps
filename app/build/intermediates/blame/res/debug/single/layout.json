@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/settings_button.xml",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/layout/settings_button.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/transition_view.xml",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/grid_layout_test.xml",
+        "source": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/res/layout/grid_layout_test.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/back_button.xml",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/ui_layer_with_portrait_support.xml",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/layout/ui_layer.xml",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/layout/ui_layer.xml"
+    }
+]

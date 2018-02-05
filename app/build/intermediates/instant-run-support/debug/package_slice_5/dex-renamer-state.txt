@@ -1,0 +1,4 @@
+#Mon Feb 05 11:53:42 PST 2018
+base.0=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

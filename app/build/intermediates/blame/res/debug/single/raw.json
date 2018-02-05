@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pos_tex_ubo.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pos_tex_ubo.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/color_shader_vert.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/color_shader_vert.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/cubemap_vert.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/cubemap_vert.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/phong_surface_multitex.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/phong_surface_multitex.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/gear_vr_controller.obj",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/gear_vr_controller.obj"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/directshadowlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/directshadowlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/phong_surface.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/phong_surface.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/addlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/addlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pos_ubo.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pos_ubo.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vertex_template_multitex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vertex_template_multitex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/cubemap_reflection_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/cubemap_reflection_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/ext_tex_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/ext_tex_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/fragment_template.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/fragment_template.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/color_blend_vert.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/color_blend_vert.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/hud_console.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/hud_console.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/fragment_template_multitex.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/fragment_template_multitex.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/oes_vertical_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/oes_vertical_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/yuv_nv21_to_rgb.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/yuv_nv21_to_rgb.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/oes_horizontal_stereo_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/oes_horizontal_stereo_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vertex_template.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vertex_template.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/unlit_horizontal_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/unlit_horizontal_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/spotlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/spotlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pointlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pointlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vertex_shadow.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vertex_shadow.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vertex_template_depth.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vertex_template_depth.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vertexskinning.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vertexskinning.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/inverted_colors_vertex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/inverted_colors_vertex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/vert_flip_tex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/vert_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pos_only.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pos_only.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/directlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/directlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/depth_shader.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/depth_shader.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/texture_surface.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/texture_surface.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pos_norm_multitex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pos_norm_multitex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/inverted_colors_fragment.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/inverted_colors_fragment.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/spotshadowlight.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/spotshadowlight.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/horz_flip_tex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/horz_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/cubemap_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/cubemap_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/posteffect_quad.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/posteffect_quad.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/unlit_tex_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/unlit_tex_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/phong_surface_layertex.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/phong_surface_layertex.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/unlit_flip_tex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/unlit_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/pos_norm_tex.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/pos_norm_tex.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/color_shader_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/color_shader_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/unlit_vertical_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/unlit_vertical_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/cubemap_reflection_vert.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/cubemap_reflection_vert.vsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/color_blend_frag.fsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/color_blend_frag.fsh"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/raw/normalmap.vsh",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/raw/normalmap.vsh"
+    }
+]

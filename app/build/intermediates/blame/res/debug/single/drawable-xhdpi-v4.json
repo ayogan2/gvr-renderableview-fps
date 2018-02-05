@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_settings_white_24.png",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/gear_vr_controller_color_1024.png",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/drawable-xhdpi-v4/gear_vr_controller_color_1024.png"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/__default_splash_screen__.png",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/drawable-xhdpi-v4/__default_splash_screen__.png"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/quantum_ic_close_white_24.png",
+        "source": "/Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/res/drawable-xhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/white_texture.png",
+        "source": "/Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/res/drawable-xhdpi-v4/white_texture.png"
+    }
+]

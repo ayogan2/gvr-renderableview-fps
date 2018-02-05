@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:2:5-41
+	android:versionName
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:32:5-80
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:8:22-76
+uses-sdk
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:10:5-12:41
+MERGED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:23:5-25:41
+MERGED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.vr:sdk-controller:1.80.0] /Users/arun.y1/.android/build-cache/3f81585529acf524982699d6ca191c9dffe9b89d/output/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:5:5-73
+MERGED from [com.google.vr:sdk-common:1.80.0] /Users/arun.y1/.android/build-cache/93716df6911613df3d29dfce5791ee1686fedc6f/output/AndroidManifest.xml:3:5-73
+MERGED from [org.gearvrf:backend_oculus:4.0.0] /Users/arun.y1/.android/build-cache/4760ba41e8555ba412d9f17ebee4dd2605be0410/output/AndroidManifest.xml:23:5-25:41
+MERGED from [org.joml:joml-android:1.9.1-SNAPSHOT] /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/build/intermediates/exploded-aar/org.joml/joml-android/1.9.1-SNAPSHOT/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:percent:23.1.0] /Users/arun.y1/.android/build-cache/2288bbec62a8ebda1da2f442bf62c8fbe404008b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /Users/arun.y1/.android/build-cache/503664890d433b12ca533a4c91e0c821b1b79c67/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:12:9-38
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:11:9-35
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:14:5-29:19
+MERGED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:36:5-39:19
+MERGED from [com.android.support:percent:23.1.0] /Users/arun.y1/.android/build-cache/2288bbec62a8ebda1da2f442bf62c8fbe404008b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /Users/arun.y1/.android/build-cache/503664890d433b12ca533a4c91e0c821b1b79c67/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:18:9-43
+	android:hardwareAccelerated
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:17:9-45
+	android:largeHeap
+		ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:37:9-33
+	android:theme
+		ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:38:9-44
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:19:9-100
+	android:value
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:19:75-98
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:19:20-74
+activity#org.gearvrf.renderableview.MainActivity
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:21:19-56
+	android:label
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:23:19-53
+	android:launchMode
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:22:19-50
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:20:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:26:27-74
+uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
+ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:30:22-85
+uses-feature#0x00030000
+ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:32:5-34:35
+	android:glEsVersion
+		ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:33:9-41
+	android:required
+		ADDED from [org.gearvrf:framework:4.0.0] /Users/arun.y1/.android/build-cache/3975c2f7a4e6adc5114fb59fbc1936f1f8760990/output/AndroidManifest.xml:34:9-32
+uses-permission#android.permission.VIBRATE
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:30:5-66
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:30:22-63
+uses-permission#android.permission.NFC
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:34:5-62
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:34:22-59
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:37:5-39:35
+	android:required
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:39:9-32
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:38:9-61
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:40:5-42:35
+	android:required
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:42:9-32
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:41:9-57
+uses-feature#android.software.vr.mode
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:45:5-47:36
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:13:5-85
+	android:required
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:47:9-33
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:46:9-48
+uses-feature#android.hardware.vr.high_performance
+ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:49:5-51:36
+MERGED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:15:5-97
+	android:required
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:51:9-33
+	android:name
+		ADDED from [org.gearvrf:backend_daydream:4.0.0] /Users/arun.y1/.android/build-cache/08d85241ccd24ee6be51e09f877ad840122cb64c/output/AndroidManifest.xml:50:9-60
+uses-feature#0x00020000
+ADDED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:6:5-77
+REJECTED from /Users/arun.y1/projects/GearVRf-Demos/gvr-renderableview-fps/app/src/main/AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:6:52-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [com.google.vr:sdk-base:1.80.0] /Users/arun.y1/.android/build-cache/24a79d920e81eef39006dc2b8c0c7162aef18310/output/AndroidManifest.xml:10:22-78
